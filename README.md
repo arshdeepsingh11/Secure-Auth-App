@@ -38,4 +38,8 @@ A **secure authentication app** built using **Supabase** for the backend and **E
 📧 arsh.016vs@gmail.com 
 💻 arshdeepsingh11
 
+Contributors 
+Parth
+Arshdeep Singh
+Shubh
 ---
